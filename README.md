@@ -1,2 +1,2 @@
-# bug-traacker
+# bug-tracker
 program for tracking bugs
